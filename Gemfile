@@ -14,11 +14,11 @@ gem 'jquery-rails'
 
 group :deployment do
 	gem 'mysql2'
-end 
+end
 
 group :production do
 	gem 'pg'
-end 
+end
 
 # Use unicorn as the web server
 # gem 'unicorn'
