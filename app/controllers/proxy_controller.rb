@@ -13,7 +13,7 @@ class ProxyController < ApplicationController
     else
       #Production URL
       #site_url = "http://webproxy.heroku.com/proxy"
-      site_url = "http://prxme.heroku.com/proxy"
+      site_url = "http://prxme.herokuapp.com/proxy"
     end
 
 # INSERT START
